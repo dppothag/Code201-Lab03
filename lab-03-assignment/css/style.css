@@ -1,0 +1,42 @@
+#title {
+    text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: overline;
+  color: blue;
+  text-shadow: 3px 2px red;
+  float: left;
+/*   margin-bottom: 20px; */
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  background-color: darkgrey;
+  float: left;
+/*   margin-bottom: 20px; */
+}
+
+div {
+  margin: 0;
+  height: 100%;
+  color: blue;
+  font-family: helvetica;
+  background-color: darkgrey;
+  float: left;
+/*   margin-bottom: 20px; */
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
